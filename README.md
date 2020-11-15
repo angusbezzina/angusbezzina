@@ -1,7 +1,7 @@
 ## Hi 👋,
 ### Welcome to my GitHub profile, here are a few facts about me
 
-⚡ I work at [here](https://vivo.digital)
+⚡ I work at [ViVO Digital](https://vivo.digital)
 
 🔭 I’m building a side project called ForeWord.
 
