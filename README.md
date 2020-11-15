@@ -1,7 +1,5 @@
 ## Hi 👋,
-## Welcome to my GitHub profile
-
-#### Here are a few facts about me
+### Welcome to my GitHub profile, here are a few facts about me
 
 ⚡ I work at [here](https://vivo.digital)
 
