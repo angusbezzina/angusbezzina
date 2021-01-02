@@ -1,4 +1,4 @@
-## Hi 👋, welcome to my GitHub profile
+## Hi 👋, I'm Angus
 
 ### Here are a few facts about me
 
