@@ -4,8 +4,8 @@
 
 ⚡ I work at [ViVO Digital](https://vivo.digital)
 
-🔭 I’m building a side project called ForeWord.
+🔭 Check out my latest side project called [ForeWord](https://foreword.world).
 
-👯 I’m looking to collaborate on new and exciting React, Typescript and Python oriented projects.
+👯 I’m looking to collaborate on new and exciting projects, especially those involving React, Typescript, NodeJS, AWS/Serverless.
 
 📫 Contact me [here](https://angusbezzina.com)
