@@ -2,7 +2,7 @@
 
 ### Here are a few facts about me
 
-⚡ I work at [ViVO Digital](https://vivo.digital)
+⚡ I work at [33Bondi](https://33bondi.com/)
 
 🔭 Check out my latest side project called [ForeWord](https://foreword.world).
 
