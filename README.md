@@ -2,7 +2,7 @@
 
 ### Here are a few facts about me
 
-⚡ I work at [TheoremOne]([https://33bondi.com/](https://www.theoremone.co/)).
+⚡ I work at [TheoremOne](https://www.theoremone.co/).
 
 🔭 Check out my latest side project called [ForeWord](https://foreword.world).
 
