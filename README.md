@@ -4,4 +4,4 @@
 
 👯 I’m looking to collaborate on new and exciting projects, especially those involving LangChain, React, Typescript, NodeJS, AWS.
 
-📫 Contact me [here](https://angusbezzina.com)
+📫 Contact me [here](https://angusbezzina.com).
