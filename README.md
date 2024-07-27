@@ -1,4 +1,4 @@
-## Hi 👋, I'm Angus
+## Hi, I'm Angus 👋
 
 ⚡ Working at [Bueno](https://bueno.art/) & [HumanKind](https://www.humankind.art/).
 
