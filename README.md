@@ -1,8 +1,8 @@
 ## Hi, I'm Angus 👋
 
-⚡ Working at [Bueno](https://bueno.art/) & [HumanKind](https://www.humankind.art/).
+⚡ Working at [Little Bear Labs](https://littlebearlabs.io/) & [Datum](https://www.datum.net/).
 
-🔬 Side projects "Enlightened Exchange" & "PromptSavvy" coming soon.
+🔬 Side projects "The Enlightened Exchange", "CreatorX" & "PatientAI" coming soon.
 
 👯 Always looking to collaborate on new and exciting projects, especially those involving LangChain, React, Typescript, Python & Go.
 
