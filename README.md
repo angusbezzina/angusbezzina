@@ -1,8 +1,8 @@
 ## Hi, I'm Angus 👋
 
-⚡ Working at [Little Bear Labs](https://littlebearlabs.io/) & [Datum](https://www.datum.net/).
+⚡ Working at [Little Bear Labs](https://littlebearlabs.io/) & [MCP-UI](https://www.mcp-ui.com).
 
-🔬 Side projects "The Enlightened Exchange", "CreatorX" & "PatientAI" coming soon.
+🔬 Side projects "Lucent" & "MyAgentX" coming soon.
 
 👯 Always looking to collaborate on new and exciting projects, especially those involving LangChain, React, Typescript, Python & Go.
 
