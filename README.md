@@ -1,9 +1,14 @@
 ## Hi, I'm Angus 👋
 
-⚡ Working at [Little Bear Labs](https://littlebearlabs.io/) & [MCP-UI](https://www.mcp-ui.com).
+⚡ Working at:
+- [Little Bear Labs](https://littlebearlabs.io/)
+- [GPU-CLI](https://gpu-cli.sh/).
 
-🔬 Side projects "Lucent" & "MyAgentX" coming soon.
+🔧 Tinkering on:
+- [Virgil](https://alasdairbezzina.xyz/)
+- [AssignX](https://www.assignx.ai/)
+- MaxMe (Coming Soon)
 
-👯 Always looking to collaborate on new and exciting projects, especially those involving LangChain, React, Typescript, Python & Go.
+👯 Always looking to collaborate on new and exciting projects, especially those involving Applied AI, Typescript & Rust.
 
 📫 Contact me [here](https://angusbezzina.com).
