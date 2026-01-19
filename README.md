@@ -2,12 +2,12 @@
 
 ⚡ Working at:
 - [Little Bear Labs](https://littlebearlabs.io/)
-- [GPU-CLI](https://gpu-cli.sh/).
+- [GPU-CLI](https://gpu-cli.sh/)
 
 🔧 Tinkering on:
 - [Virgil](https://alasdairbezzina.xyz/)
 - [AssignX](https://www.assignx.ai/)
-- MaxMe (Coming Soon)
+- MaxMe _(Coming Soon)_
 
 👯 Always looking to collaborate on new and exciting projects, especially those involving Applied AI, Typescript & Rust.
 
