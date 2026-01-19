@@ -1,14 +1,14 @@
 ## Hi, I'm Angus 👋
 
-⚡ Working at:
+👯 Always looking to collaborate on new and exciting projects, especially those involving Applied AI, Typescript & Rust.
+
+⚡ Currently working at:
 - [Little Bear Labs](https://littlebearlabs.io/)
 - [GPU-CLI](https://gpu-cli.sh/)
 
-🔧 Tinkering on:
+🔧 Currently tinkering on:
 - [Virgil](https://alasdairbezzina.xyz/)
 - [AssignX](https://www.assignx.ai/)
 - MaxMe _(Coming Soon)_
 
-👯 Always looking to collaborate on new and exciting projects, especially those involving Applied AI, Typescript & Rust.
-
-📫 Contact me [here](https://angusbezzina.com).
+📫 Get in touch with me [here](https://angusbezzina.com).
